@@ -125,3 +125,7 @@ gdi32
 👩‍💻 Project
 
 Lighthouse Island — A Computer Graphics project built from scratch using C, OpenGL and GLUT.
+🎬 Project Demo
+
+Watch the Lighthouse Island 3D Computer Graphics project in action!
+

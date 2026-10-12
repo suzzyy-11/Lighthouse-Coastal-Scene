@@ -128,4 +128,5 @@ Lighthouse Island — A Computer Graphics project built from scratch using C, Op
 🎬 Project Demo
 
 Watch the Lighthouse Island 3D Computer Graphics project in action!
+https://github.com/user-attachments/assets/820e29a2-251d-4444-8d28-b47a0e2222b9__
 
